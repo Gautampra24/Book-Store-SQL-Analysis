@@ -1,7 +1,7 @@
 
 # Book Store SQL Analysis
 
-Welcome to the **Book Store SQL Analysis** repository. This project provides a complete walkthrough of setting up a book store database and performing meaningful SQL queries to extract business insights. From inserting data to deep analytical queries, every step is documented below.
+**Book Store SQL Analysis** repository. This project provides a complete walkthrough of setting up a book store database and performing meaningful SQL queries to extract business insights. From inserting data to deep analytical queries, every step is documented below.
 
 ---
 
